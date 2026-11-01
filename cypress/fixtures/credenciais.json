@@ -1,0 +1,6 @@
+{
+  "invalidas": {
+    "email": "usuario-inexistente-pgats@mail.com",
+    "senha": "senhaErrada123"
+  }
+}

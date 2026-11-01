@@ -1,0 +1,17 @@
+{
+  "nome": "PGATS Aut",
+  "senha": "Pgats@123",
+  "diaNascimento": "10",
+  "mesNascimento": "September",
+  "anoNascimento": "1990",
+  "primeiroNome": "Debora",
+  "sobrenome": "Everly",
+  "empresa": "PGATS",
+  "endereco": "Rua das Flores, 100",
+  "complemento": "Apto 12",
+  "pais": "United States",
+  "estado": "California",
+  "cidade": "San Francisco",
+  "cep": "94105",
+  "celular": "5511999999999"
+}
